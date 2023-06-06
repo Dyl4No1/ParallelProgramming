@@ -1,4 +1,4 @@
-# ParallelProgramming
+# Parallel Programming
 Parallel Programming assignment using OpenCL
 
 This assignment was created in partial completion of the Third Year Parallel Programming module at the University of Lincoln.
